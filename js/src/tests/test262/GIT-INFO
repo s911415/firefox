@@ -1,0 +1,11 @@
+commit 09380a4ae412e986ea39eb7163f5a6b3e5b04bbc
+Author: Ross Kirsling <rkirsling@gmail.com>
+Date:   Tue Dec 3 13:28:15 2019 -0800
+
+    Add test verifying that optional call preserves `this`. (#2436)
+    
+    * Add test verifying that optional call preserves `this`.
+    
+    * Update test/language/expressions/optional-chaining/optional-call-preserves-this.js
+    
+    Co-Authored-By: Leo Balter <leonardo.balter@gmail.com>
